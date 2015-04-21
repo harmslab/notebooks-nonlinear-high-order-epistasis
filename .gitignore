@@ -58,3 +58,6 @@ target/
 
 # Jupyter notebook checkpoints
 *.ipynb_checkpoints/
+
+# Lattice model module conformation database
+notebooks/database/
