@@ -60,4 +60,9 @@ target/
 *.ipynb_checkpoints/
 
 # Lattice model module conformation database
-notebooks/database/
+*database/
+
+# published datasets
+published_datasets/
+
+*.DS_Store
