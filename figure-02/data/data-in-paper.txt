@@ -1,0 +1,2 @@
+# Zero-th order, and all additive coefficients 
+0.5, -0.13463125, 0.12698641, 0.02709926, 0.09493059, 0.10254137
