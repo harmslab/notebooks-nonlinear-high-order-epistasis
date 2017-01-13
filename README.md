@@ -1,6 +1,9 @@
 # Detecting high-order epistasis in nonlinear genotype-phenotype maps
 
-This repository contains all materials to reproduce the results and analysis in the following paper: "Detecting high-order epistasis in nonlinear genotype-phenotype maps". See the paper [here]().
+This repository is still under heavy development! Final changes will be made by publication time.
+
+
+This repository contains all materials to reproduce the results and analysis in the following paper: "Detecting high-order epistasis in nonlinear genotype-phenotype maps". See the paper [here](http://biorxiv.org/content/early/2016/12/02/072256.article-metrics).
 
 ## Try out the notebooks!
 
@@ -45,3 +48,5 @@ The following formats are used in to create all data, metadata, and figures for 
 - [Figure 4](): **Experimental genotype-phenotype maps exhibit nonlinear phenotypes.** residuals.
 - [Figure 5](): **High-order epistasis is present in genotype-phenotype maps.**
 - [Figure 6](): **Nonlinear phenotypes distort measured epistatic coefficients.**
+
+
