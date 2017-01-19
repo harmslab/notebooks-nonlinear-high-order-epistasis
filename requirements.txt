@@ -1,0 +1,9 @@
+gpmap
+epistasis
+sklearn
+matplotlib
+numpy
+scipy
+jupyter
+ipython
+ipywidgets
