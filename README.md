@@ -5,11 +5,11 @@
 
 This repository contains Jupyter notebooks that reproduce the results and analysis in our paper: "Detecting high-order epistasis in nonlinear genotype-phenotype maps." published in Genetics.
 
-See a preprint of the paper [here](http://biorxiv.org/content/early/2016/12/02/072256.article-metrics).
+See an early release of the paper [here](http://www.genetics.org/content/early/2017/01/17/genetics.116.195214).
 
 ## Try out the notebooks!
 
-All results and analysis are reproducible in Jupyter notebooks. Try the the notebooks [now]((http://mybinder.org:/repo/harmslab/notebooks-nonlinear-high-order-epistasis)), graciously provided by the Binder web service.
+All results and analysis are reproducible in Jupyter notebooks. Try the the notebooks [now](http://mybinder.org:/repo/harmslab/notebooks-nonlinear-high-order-epistasis), graciously provided by the Binder web service.
 
 ## Download and Install
 
