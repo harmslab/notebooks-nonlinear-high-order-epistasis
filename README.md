@@ -1,5 +1,7 @@
 # Detecting high-order epistasis in nonlinear genotype-phenotype maps
-** Zachary R Sailer and Michael J Harms**
+**Zachary R Sailer and Michael J Harms**
+
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/harmslab/notebooks-nonlinear-high-order-epistasis)
 
 This repository contains Jupyter notebooks that reproduce the results and analysis in our paper: "Detecting high-order epistasis in nonlinear genotype-phenotype maps." published in Genetics.
 
@@ -7,7 +9,7 @@ See a preprint of the paper [here](http://biorxiv.org/content/early/2016/12/02/0
 
 ## Try out the notebooks!
 
-All results and analysis are reproducible in Jupyter notebooks. Try the the notebooks now, graciously provided by the Binder web service.
+All results and analysis are reproducible in Jupyter notebooks. Try the the notebooks [now]((http://mybinder.org:/repo/harmslab/notebooks-nonlinear-high-order-epistasis)), graciously provided by the Binder web service.
 
 ## Download and Install
 
@@ -23,7 +25,7 @@ If you'd like to run the notebooks locally, clone this repository and make sure 
 8. Matplotlib
 9. ipywidgets
 
-All packages can be installed using `pip`. 
+All packages can be installed using `pip`.
 
 ## Data formats
 
@@ -34,11 +36,9 @@ The following formats are used in to create all data, metadata, and figures for 
 
 ## Table of Contents
 
-- Figure 1: **Epistasis can be quantified using Walsh polynomials** (no notebook for this figure) 
+- Figure 1: **Epistasis can be quantified using Walsh polynomials** (no notebook for this figure)
 - [Figure 2](figures-notebooks/figure-02.ipynb): **Nonlinearity in phenotype creates spurious high-order epistatic coefficients.**
 - [Figure 3](figures-notebooks/figure-03.ipynb): **Epistasis and nonlinear scale induce different patterns of nonadditivity.**
 - [Figure 4](figures-notebooks/figure-04.ipynb): **Experimental genotype-phenotype maps exhibit nonlinear phenotypes.**
 - [Figure 5](figures-notebooks/figure-05.ipynb): **High-order epistasis is present in genotype-phenotype maps.**
 - [Figure 6](figures-notebooks/figure-06.ipynb): **Nonlinear phenotypes distort measured epistatic coefficients.**
-
-
