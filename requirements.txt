@@ -1,9 +1,10 @@
 gpmap
 epistasis
 sklearn
-matplotlib
+matplotlib>=2.0
 numpy
 scipy
 jupyter
 ipython
 ipywidgets
+cython
