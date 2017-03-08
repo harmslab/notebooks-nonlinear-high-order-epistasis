@@ -3,9 +3,9 @@
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/harmslab/notebooks-nonlinear-high-order-epistasis)
 
-This repository contains Jupyter notebooks that reproduce the results and analysis in our paper: "Detecting high-order epistasis in nonlinear genotype-phenotype maps." published in Genetics.
+This repository contains Jupyter notebooks that reproduce the results and analysis in our paper: "Detecting high-order epistasis in nonlinear genotype-phenotype maps." published in Genetics, March 2017.
 
-See an early release of the paper [here](http://www.genetics.org/content/early/2017/01/17/genetics.116.195214).
+See the paper [here](http://www.genetics.org/content/205/3/1079).
 
 ## Try out the notebooks!
 
