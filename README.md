@@ -1,7 +1,7 @@
 # Detecting high-order epistasis in nonlinear genotype-phenotype maps
 **Zachary R Sailer and Michael J Harms**
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/harmslab/notebooks-nonlinear-high-order-epistasis)
+[![Binder](https://beta.mybinder.org/v2/gh/harmslab/notebooks-nonlinear-high-order-epistasis/master)
 
 This repository contains Jupyter notebooks that reproduce the results and analysis in our paper: "Detecting high-order epistasis in nonlinear genotype-phenotype maps." published in Genetics, March 2017.
 
@@ -15,15 +15,17 @@ All results and analysis are reproducible in Jupyter notebooks. Try the the note
 
 If you'd like to run the notebooks locally, clone this repository and make sure you have all the necessary dependencies are installed and are running Python 3. Here's a list of everything you'll need:
 
-1. epistasis
-2. gpmap
-3. Jupyter Notebook
-4. IPython
-5. Numpy
-6. Scipy
-7. Scikit-learn
-8. Matplotlib
-9. ipywidgets
+```
+epistasis==0.1.2
+gpmap==0.1.1
+notebook
+ipython
+numpy
+scipy
+sklearn
+matplotlib
+ipywidgets
+```
 
 All packages can be installed using `pip`.
 

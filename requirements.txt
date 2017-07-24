@@ -1,5 +1,5 @@
 gpmap
-epistasis
+epistasis==0.1.2
 sklearn
 matplotlib>=2.0
 numpy
