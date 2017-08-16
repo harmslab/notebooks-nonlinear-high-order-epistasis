@@ -2,6 +2,7 @@
 **Zachary R Sailer and Michael J Harms**
 
 [![Binder](http://mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/harmslab/notebooks-nonlinear-high-order-epistasis/master)
+[![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](http://nbviewer.jupyter.org/github/harmslab/notebooks-nonlinear-high-order-epistasis/blob/master/index.ipynb)
 
 This repository contains Jupyter notebooks that reproduce the results and analysis in our paper: "Detecting high-order epistasis in nonlinear genotype-phenotype maps." published in Genetics, March 2017.
 
