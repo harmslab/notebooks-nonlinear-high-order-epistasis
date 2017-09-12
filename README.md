@@ -17,8 +17,8 @@ All results and analysis are reproducible in Jupyter notebooks. Try the the note
 If you'd like to run the notebooks locally, clone this repository and make sure you have all the necessary dependencies are installed and are running Python 3. Here's a list of everything you'll need:
 
 ```
-epistasis==0.1.2
-gpmap==0.1.1
+epistasis==0.2.0
+gpmap==0.2.0
 notebook
 ipython
 numpy
